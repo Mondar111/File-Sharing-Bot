@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Akbotmakersnew/File-Sharing-Bot",
+  "repository": "https://github.com/mondar111/File-Sharing-Bot",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -14,7 +14,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1684089101"
+      "value": "1808136434"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -38,11 +38,11 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>kamu harus join Channel Dan Group\n\nKindly join Channel @asupuanbuas @donasibuas @gulalibuas</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "1808136434",
       "required": false
     }
   },
