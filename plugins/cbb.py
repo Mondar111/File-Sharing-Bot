@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ pemilik 💱 : <a href='https://t.me/cieemarahR'>This Person</a>\n○ Language : <code>Python3</code>\n○ Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n○ asupan: <a href='https://t.me/asupanbuas'>Click here</a>\n○ Channel : @donasibuas\n○ Support Group : @ohbabysini</b>",
+            text = f"<b>○ pemilik 💱 : <a href='https://t.me/cieemarah'>KING CH🪙</a>\n○ 💱: <code>monubot3</code>\n○ asupan 2 : <a href='https://T.ME/donasiBUAS/'>Pyrogram mon {__version__}</a>\n○ asupan: <a href='https://t.me/asupanbuas'>Click here</a>\n○ asupan 3 : @gulalibuas\n○ Support Group : @ohbabysini</b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
